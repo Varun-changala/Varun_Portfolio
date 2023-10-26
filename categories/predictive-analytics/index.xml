@@ -1,0 +1,29 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes"?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>Predictive Analytics on Varun Changala</title>
+    <link>https://varun-changala.github.io/varun_portfolio/categories/predictive-analytics/</link>
+    <description>Recent content in Predictive Analytics on Varun Changala</description>
+    <generator>Hugo -- gohugo.io</generator>
+    <language>en-us</language>
+    <lastBuildDate>Mon, 12 Apr 2021 12:14:34 +0600</lastBuildDate><atom:link href="https://varun-changala.github.io/varun_portfolio/categories/predictive-analytics/index.xml" rel="self" type="application/rss+xml" />
+    <item>
+      <title>Stock Market Prediction using Twitter Sentiment Analysis</title>
+      <link>https://varun-changala.github.io/varun_portfolio/portfolio/project-1/</link>
+      <pubDate>Mon, 12 Apr 2021 12:14:34 +0600</pubDate>
+      
+      <guid>https://varun-changala.github.io/varun_portfolio/portfolio/project-1/</guid>
+      <description>As a data analyst, I conducted a project focused on sentiment analysis and stock trend prediction using Twitter data for Apple Inc.</description>
+    </item>
+    
+    <item>
+      <title>Walmart Trip Type Classification</title>
+      <link>https://varun-changala.github.io/varun_portfolio/portfolio/project-2/</link>
+      <pubDate>Sat, 26 Oct 2019 12:14:34 +0600</pubDate>
+      
+      <guid>https://varun-changala.github.io/varun_portfolio/portfolio/project-2/</guid>
+      <description>Introduction: In this project, we aimed to enhance Walmart&amp;rsquo;s trip type classification process by leveraging data science techniques.</description>
+    </item>
+    
+  </channel>
+</rss>

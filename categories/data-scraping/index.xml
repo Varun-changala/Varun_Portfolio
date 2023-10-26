@@ -1,0 +1,20 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes"?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>Data Scraping on Varun Changala</title>
+    <link>https://varun-changala.github.io/varun_portfolio/categories/data-scraping/</link>
+    <description>Recent content in Data Scraping on Varun Changala</description>
+    <generator>Hugo -- gohugo.io</generator>
+    <language>en-us</language>
+    <lastBuildDate>Tue, 12 May 2020 12:14:34 +0600</lastBuildDate><atom:link href="https://varun-changala.github.io/varun_portfolio/categories/data-scraping/index.xml" rel="self" type="application/rss+xml" />
+    <item>
+      <title>Visualizing US Minimum Wage by State: Analyzing Historical Trends</title>
+      <link>https://varun-changala.github.io/varun_portfolio/portfolio/project-4/</link>
+      <pubDate>Tue, 12 May 2020 12:14:34 +0600</pubDate>
+      
+      <guid>https://varun-changala.github.io/varun_portfolio/portfolio/project-4/</guid>
+      <description>This project analyzed and visualized the dataset of US minimum wage by state from 1968 to 2020.</description>
+    </item>
+    
+  </channel>
+</rss>

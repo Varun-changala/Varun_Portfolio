@@ -1,0 +1,20 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes"?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>Python (Programming Language) on Varun Changala</title>
+    <link>https://varun-changala.github.io/varun_portfolio/categories/python-programming-language/</link>
+    <description>Recent content in Python (Programming Language) on Varun Changala</description>
+    <generator>Hugo -- gohugo.io</generator>
+    <language>en-us</language>
+    <lastBuildDate>Tue, 12 May 2020 12:14:34 +0600</lastBuildDate><atom:link href="https://varun-changala.github.io/varun_portfolio/categories/python-programming-language/index.xml" rel="self" type="application/rss+xml" />
+    <item>
+      <title>Loan Default Prediction using Visualization tools</title>
+      <link>https://varun-changala.github.io/varun_portfolio/portfolio/project-6/</link>
+      <pubDate>Tue, 12 May 2020 12:14:34 +0600</pubDate>
+      
+      <guid>https://varun-changala.github.io/varun_portfolio/portfolio/project-6/</guid>
+      <description>In this project, we conducted a comprehensive data analysis to predict loan repayment capability.</description>
+    </item>
+    
+  </channel>
+</rss>
